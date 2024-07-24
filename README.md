@@ -10,6 +10,6 @@ Bem-vindo ao meu repositório de anotações e projetos desenvolvidos durante o 
 
 
      + [Challenge](https://github.com/Gahas2004/Compass-UOL/blob/main/SPRINTS/Sprint%201%20-%20Processos%20%C3%81geis%20%26%20AWS/Challenge.md)
-     + [Dia 1 - Ágil](https://github.com/Gahas2004/Compass-UOL/tree/main/SPRINTS/Sprint%201%20-%20Processos%20%C3%81geis%20%26%20AWS/Dia%201%20-%20Agil)
+     + [Dia 1 - Ágil](https://github.com/Gahas2004/Compass-UOL/tree/main/SPRINTS/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Dia%201%20-%20%C3%81gil)
      + [Dia 2 - Ágil]()
   
